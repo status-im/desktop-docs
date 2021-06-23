@@ -16,7 +16,7 @@ Cohorts
 Desktop
 ===
 
-* [Features User Guide](/1wgedg_kSH6QxiiSPr6J3A)
+* [Features User Guide](https://hackmd.io/@status-desktop/rkUZ6fWnO)
 * [Features Dev Guide](/a5MyS7UTRt69BRL7SfweUA)
 * [Developer Guide](/8tAt7WlYQAWk9cMkW5cVWw)
 * [QML API](/YSpMpIIUS0qhaS32r9VVxQ)
@@ -28,3 +28,5 @@ Other
 * [Nim-status](/POuCfTblQOyToMWq7agzTA)
 * [Status-go](/c0z4K-pQQAS6L-6YlCIpvA)
 * [Go-waku](/i_HqD9VYRB6CsPslmqr_OQ)
+* [Dotherside]()
+* [NimQML]()
