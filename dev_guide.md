@@ -20,6 +20,8 @@ Development
 * [Threads & Concurrency](/4ShP0jBUSZGo5W-aDTpFdQ)
 * [Translation Scripts](/YKeNCoPbRJuBNLavfzrtmw)
 * [Tips & Tricks](/Y5016VyFT2GAI0J9e6RRSw)
+* [Windows Signing](/I26GZ-QzRVWDz9Zh3sQbMw)
+* [MacOS Notarization](/k-LvuV5YSGmkXAIPoEMycQ)
 
 Guides & Tutorials
 ===
