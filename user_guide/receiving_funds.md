@@ -2,8 +2,8 @@
 
 ## receiving funds on an account
 
-![url_bar](/images/wallet/actions_receive.png)
+![](https://i.imgur.com/pgL9hr5.png)
 
-![url_bar](/images/wallet/receive_modal.png)
+![](https://i.imgur.com/Swv4MdY.png)
 
-![url_bar](/images/wallet/receive_modal2.png)
+![](https://i.imgur.com/Rw8ApwV.png)
